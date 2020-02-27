@@ -1,0 +1,46 @@
+body, html {
+    margin: 0; 
+    padding: 0; 
+}
+
+.box {
+    height: 100px; 
+    width: 100%; 
+}
+
+.grey-box {
+    background-color: #D8D8D8;  
+    box-sizing: border-box;
+    padding: 25px; 
+}
+
+.navy-square {
+    width: 50px; 
+    height: 50px;
+    background-color: #4A90E2;
+}
+
+.white-box {
+    height: 200px; 
+    width: 100%; 
+    background-color: #fff;  
+    box-sizing: border-box;
+    padding: 50px; 
+
+}
+
+.blue-box {
+    background-color: #4A90E2;  
+}
+
+.seafoam-box {
+    background-color: #50E3C2;  
+}
+
+.green-box {
+    background-color: #B8E986;  
+}
+
+.yellow-box {
+    background-color: #F8E71C;
+}
